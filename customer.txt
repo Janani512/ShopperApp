@@ -3,4 +3,7 @@
 Janani Trichy
 Teju Coimbatore
 Jablie salem
- 
+ #Product.txt Contains details about the Shop customer
+Janu Salem
+Teju Coimbatore
+Yalu Chennai
