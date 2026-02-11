@@ -1,0 +1,6 @@
+Product Details
+----------------
+Product ID: 101
+Product Name: Laptop
+Price: 50000
+Quantity: 10
