@@ -1,0 +1,5 @@
+#product.txt Contain details about the shop customers
+Janani Trichy
+Teju Coimbatore
+Jablie salem
+ 
